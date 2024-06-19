@@ -1,0 +1,2321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eabb598565b7dc4b8f4e9c4719c9d81, type: 3}
+  m_Name: Screens
+  m_EditorClassIdentifier: 
+  landingPageHome:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  homeScreenData:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    charactersButtons:
+    - savedSprite: {fileID: 0}
+      savedDescription: 
+      uiSettings:
+        textData:
+          textString: 
+          textSize: 0
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        logo: {fileID: 0}
+    - savedSprite: {fileID: 0}
+      savedDescription: 
+      uiSettings:
+        textData:
+          textString: 
+          textSize: 0
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        logo: {fileID: 0}
+    - savedSprite: {fileID: 0}
+      savedDescription: 
+      uiSettings:
+        textData:
+          textString: 
+          textSize: 0
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        logo: {fileID: 0}
+    - savedSprite: {fileID: 0}
+      savedDescription: 
+      uiSettings:
+        textData:
+          textString: 
+          textSize: 0
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        logo: {fileID: 0}
+    startGameButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  individualTrail:
+    blocks:
+    - texts:
+      - textString: New Text
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+          do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+          ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+          cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+          id est laborum.
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      images:
+      - {fileID: 0}
+    - texts:
+      - textString: New Text
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      - textString: New Text
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      images: []
+    - texts:
+      - textString: New Text
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+          do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+          ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+          cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+          id est laborum.
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      images:
+      - {fileID: 0}
+    - texts:
+      - textString: New Text
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+          do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+          ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+          cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+          id est laborum.
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 4278190080
+        isBold: 0
+        textID: 0
+      images:
+      - {fileID: 0}
+    charactersData:
+    - character: 0
+      blocks:
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+    - character: 1
+      blocks:
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+    - character: 2
+      blocks:
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+    - character: 3
+      blocks:
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: New Text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+      - texts:
+        - textString: New Text
+          textSize: 15.7
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images:
+        - {fileID: 0}
+  baseCamp:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    blocks:
+    - texts:
+      - textString: 'Stakeholder Dynamics: Navigating Interests, Power, and Knowledge'
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      images:
+      - {fileID: 21300000, guid: c5e7ad625a63a419eac60a14099c5f31, type: 3}
+    - texts:
+      - textString: "\"If we want ideas from socially engaged residents to take effect,
+          it can only be done through good collaboration with other stakeholders.\"\r\nWina
+          Smeenk, Professor of Societal Impact Design at Inholland University of
+          Applied Sciences\r\n\r\nAs you begin your expedition as a transdisciplinary
+          team, it's essential to establish a shared understanding of each other
+          and the topic at hand. \r\n\r\n To start with the latter, it's important
+          to jointly address the problem at hand, identify its origins, and ensure
+          that everyone in the group is aware of the challenge. \r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Knowledge
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Identifying relevant knowledge is crucial for the collaborative
+          process. This relates both to the already present knowledge of project
+          participants, and to the required knowledges for making progress on the
+          wicked problem. Knowledge not only refers to traditional academic knowledge,
+          but also includes expertise in co-design processes, interventions, and
+          expertise from the practical domain. '
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Interests
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Identifying participants\u2019 interests and the reasons behind
+          them is also paramount. These interests may not always be apparent and
+          can complicate the process. Considering all interests from the outset and
+          understanding their influence on individual roles is essential. \r\nIn
+          some instances, relevant participants may be absent initially during the
+          process. Assessing who is missing and why their involvement is necessary
+          enhances the effectiveness of collaborative initiatives. Therefore, the
+          previous mentioned workshop \u2018mapping your stakeholders\u2019 can be
+          done with the participants already present.\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Power
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Related to the participant\u2019s interests, it is important
+          to gain insight in the power dynamics inside the project team. Unequal
+          power dynamics often exist but may not be explicitly acknowledged, leading
+          to frustration. Transparently addressing these differences fosters equitable
+          collaboration.\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: 'Co-Design Canvas: An Empathic Tool with Societal Impact'
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "To help with these identification problems, the Co-Design canvas
+          (Smeenk, et al., 2023: Het Co-Design canvas 2023 (Nederlands) (inholland.nl)
+          ) is a possible usefull tool. It addresses wicked problems, utilizing participative
+          methods for shared understanding and innovative ideas. Tensions among stakeholders
+          often arise, and the Co-Design Canvas visualizes these dynamics, offering
+          insights into process success or challenges. \n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    blocks0:
+    - texts:
+      - textString: 'Stakeholder Dynamics: Navigating Interests, Power, and Knowledge'
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      images:
+      - {fileID: 21300000, guid: c5e7ad625a63a419eac60a14099c5f31, type: 3}
+    - texts:
+      - textString: "\"If we want ideas from socially engaged residents to take effect,
+          it can only be done through good collaboration with other stakeholders.\"\r\nWina
+          Smeenk, Professor of Societal Impact Design at Inholland University of
+          Applied Sciences\r\n\r\nAs you begin your expedition as a transdisciplinary
+          team, it's essential to establish a shared understanding of each other
+          and the topic at hand. \r\n\r\n To start with the latter, it's important
+          to jointly address the problem at hand, identify its origins, and ensure
+          that everyone in the group is aware of the challenge. \r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Knowledge
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Identifying relevant knowledge is crucial for the collaborative
+          process. This relates both to the already present knowledge of project
+          participants, and to the required knowledges for making progress on the
+          wicked problem. Knowledge not only refers to traditional academic knowledge,
+          but also includes expertise in co-design processes, interventions, and
+          expertise from the practical domain. '
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Interests
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Identifying participants\u2019 interests and the reasons behind
+          them is also paramount. These interests may not always be apparent and
+          can complicate the process. Considering all interests from the outset and
+          understanding their influence on individual roles is essential. \r\nIn
+          some instances, relevant participants may be absent initially during the
+          process. Assessing who is missing and why their involvement is necessary
+          enhances the effectiveness of collaborative initiatives. Therefore, the
+          previous mentioned workshop \u2018mapping your stakeholders\u2019 can be
+          done with the participants already present.\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: Power
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Related to the participant\u2019s interests, it is important
+          to gain insight in the power dynamics inside the project team. Unequal
+          power dynamics often exist but may not be explicitly acknowledged, leading
+          to frustration. Transparently addressing these differences fosters equitable
+          collaboration.\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: 'Co-Design Canvas: An Empathic Tool with Societal Impact'
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "To help with these identification problems, the Co-Design canvas
+          (Smeenk, et al., 2023: Het Co-Design canvas 2023 (Nederlands) (inholland.nl)
+          ) is a possible usefull tool. It addresses wicked problems, utilizing participative
+          methods for shared understanding and innovative ideas. Tensions among stakeholders
+          often arise, and the Co-Design Canvas visualizes these dynamics, offering
+          insights into process success or challenges. \n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    blocks1:
+    - texts: []
+      images:
+      - {fileID: 21300000, guid: a854a634d8d894a629534468f4927380, type: 3}
+    - texts:
+      - textString: Creating a Fertile Ground for Transdisciplinary Learning
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      images: []
+    - texts:
+      - textString: "Growing a seed of transdisciplinary collaboration in the team
+          \xE0 therefore you need a common vision. That is the fertile ground in
+          which a good collaboration develops. \r\nEstablishing fertile ground involves
+          gauging your university's readiness for talent programs and transdisciplinary
+          education. Identifying supporters among teachers, policy members, and students
+          is pivotal for co-creating a transdisciplinary project aligned with your
+          vision.\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "Start small\u2026"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Embarking on the journey towards creating a Transdisciplinary
+          project with education starts with assembling a group of teachers, researchers,
+          societal partners and students who are ready to innovate. Deliberate steps,
+          not rushed, form the foundation for a fertile ground for a successful transdisciplinary
+          project. All of the previous steps take time and especially in your learning
+          institution. Begin with courses embracing learner-centered approaches,
+          introducing small changes to test interest. Stepping stones inspire broader
+          participation and faculty recognition.
+
+          Initiating a small working
+          group comprising students, teachers, and educational policy representatives
+          propels the transdisciplinary lab. While starting small, securing institutional
+          support is paramount. A budget, even if modest, should compensate coordinators
+          for their efforts, ensuring sustainability. Motivated colleagues, students,
+          and policy representatives collaboratively shape the lab''s framework,
+          aligning it with institutional demands.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2026and let it grow!"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: Gaining institutional support may initially involve showcasing
+          the lab's value. Building an institutional network across faculties serves
+          as the initial step toward the successful organization of an innovation
+          lab. As the lab gains traction and recognition, it becomes a beacon, inspiring
+          new members to join the transformative journey.
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    blocks2:
+    - texts:
+      - textString: "Embrace Diversity \r\nUnlocking Opportunities for Growth\r\n"
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      images:
+      - {fileID: 21300000, guid: d2aaa83ec68094569905c6d3369ff48d, type: 3}
+    - texts:
+      - textString: 'In the contemporary landscape, the demand for partners adept
+          at generating knowledge across diverse domains is crucial. Educational
+          institutions, including universities and vocational centers, are undergoing
+          transformations to equip individuals with the necessary skills. These adaptations
+          focus on hands-on learning experiences, nurturing students'' practical
+          competencies and professional identities.
+
+          Learning from real-life
+
+          Hybrid
+          learning emerges as a key strategy, blending traditional educational methods
+          with real-world, challenging tasks. This approach encompasses various types
+          of knowledge, emphasizing the integration of education, research, and professional
+          practice. Scientific literature refers to this as a ''hybrid learning configuration,''
+          emphasizing the interconnectedness of these elements. This holistic approach
+          envisions a collaborative space where education, research, and business
+          sectors converge.
+
+          Diversity in knowledge
+
+          Diversity
+          in knowledge is a cornerstone of this process, with a blend of scientific
+          and practical insights contributing to system knowledge (understanding
+          the current reality), goal knowledge (envisioning the desired outcome),
+          and transformational knowledge (transitioning from system to goal knowledge).
+          Participants bring varied knowledge types, derived from their experiences
+          or lifestyles.
+
+          Boundary crossing
+
+          In this context,
+          social practice signifies a hybrid environment mirroring the characteristics
+          of participating organizations, including education, research, and the
+          business sector. Addressing complex issues sourced from professional practice
+          or society, this collaborative effort involves co-creating knowledge. Cross-boundary
+          collaboration becomes essential, leveraging diverse perspectives, disciplines,
+          and sectors introduced by partners. This inclusive strategy ensures a comprehensive
+          and enriched learning experience, reflecting the multifaceted demands of
+          our dynamic society.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    blocks3:
+    - texts:
+      - textString: 'Harmony in Collaboration: The Five Pillars for Successful Partnerships'
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images:
+      - {fileID: 21300000, guid: d2aaa83ec68094569905c6d3369ff48d, type: 3}
+    - texts:
+      - textString: "Embarking on a successful transdisciplinary process involves
+          meeting specific conditions that pave the way for effective collaboration.
+          A crucial aspect involves defining (new) roles within the transdisciplinary
+          process, spanning knowledge development, decision-making, and financing.
+          Roles are intricately tied to participants' competencies, potentially leading
+          to role assignments based on their skill sets. \r\nThe Praktijkgids Transdisciplinair
+          Samenwerken (Het Groene Brein, 2023) defines these roles and five pillars
+          for succesfull collaboration:\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tEquality "
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Equality is paramount in transdisciplinary processes, emphasizing
+          that every participant's input holds equal value. Scientific knowledge
+          does not outweigh practical insights, fostering an egalitarian environment
+          where diverse perspectives converge to address novel, challenging questions.\r"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tResponsibility and ownership"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Collective responsibility and ownership drive transdisciplinary
+          processes, necessitating all participants to view and experience problem
+          resolution collaboratively.\r\nIn some instances, relevant participants
+          may be absent initially during the process. Assessing who is missing and
+          why their involvement is necessary enhances the effectiveness of collaborative
+          initiatives. Therefore, the previous mentioned workshop \u2018mapping your
+          stakeholders\u2019 can be done with the participants already present.\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tTrust and transparency"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Building trust and maintaining transparency are critical for
+          the seamless execution of transdisciplinary processes. A safe space is
+          required, fostering trust and enabling open communication among participants.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tInterest for each participant"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Ensuring each participant has a ''value proposition'' or vested
+          interest is essential, creating a balance between contributions and gains.
+          Exposing individual motivations for participation helps establish equilibrium.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tAttention for culture and communication  "
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Finally, attention to culture and communication is crucial.
+          Participants from various professional backgrounds and linguistic diversities
+          must navigate differences in values, norms, unwritten rules, and assumptions.
+          Addressing these cultural disparities ensures a successful process at every
+          stage.
+
+
+
+          In summary, these conditions serve as a roadmap for
+          navigating the intricate landscape of transdisciplinary processes, fostering
+          collaboration, and unlocking successful outcomes.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    - texts:
+      - textString: "Embarking on a successful transdisciplinary process involves
+          meeting specific conditions that pave the way for effective collaboration.
+          A crucial aspect involves defining (new) roles within the transdisciplinary
+          process, spanning knowledge development, decision-making, and financing.
+          Roles are intricately tied to participants' competencies, potentially leading
+          to role assignments based on their skill sets. \r\nThe Praktijkgids Transdisciplinair
+          Samenwerken (Het Groene Brein, 2023) defines these roles and five pillars
+          for succesfull collaboration:\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tEquality "
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Equality is paramount in transdisciplinary processes, emphasizing
+          that every participant's input holds equal value. Scientific knowledge
+          does not outweigh practical insights, fostering an egalitarian environment
+          where diverse perspectives converge to address novel, challenging questions.\r"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tResponsibility and ownership"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "Collective responsibility and ownership drive transdisciplinary
+          processes, necessitating all participants to view and experience problem
+          resolution collaboratively.\r\nIn some instances, relevant participants
+          may be absent initially during the process. Assessing who is missing and
+          why their involvement is necessary enhances the effectiveness of collaborative
+          initiatives. Therefore, the previous mentioned workshop \u2018mapping your
+          stakeholders\u2019 can be done with the participants already present.\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tTrust and transparency"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Building trust and maintaining transparency are critical for
+          the seamless execution of transdisciplinary processes. A safe space is
+          required, fostering trust and enabling open communication among participants.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: "\u2022\tInterest for each participant"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: "\u2022\tInterest for each participant"
+        textSize: 10
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      - textString: 'Ensuring each participant has a ''value proposition'' or vested
+          interest is essential, creating a balance between contributions and gains.
+          Exposing individual motivations for participation helps establish equilibrium.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: 'Ensuring each participant has a ''value proposition'' or vested
+          interest is essential, creating a balance between contributions and gains.
+          Exposing individual motivations for participation helps establish equilibrium.
+
+'
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+    blocks4:
+    - texts:
+      - textString: Building community
+        textSize: 15.7
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 1
+        textID: 0
+      images:
+      - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+    - texts:
+      - textString: "Community building in a transdisciplinary project should be
+          understood in two ways: on the one hand, it is essential to create a community
+          inside your project teams, once the team is established. This community
+          smoothens the mutual relations to create understanding, respect and the
+          mutual trust to embark on an adventure towards a not yet determined outcome.
+          At other hand, engaging with external networks can significantly enhance
+          the relevance, innovative capabilities and finally outreach of your transdisciplinary
+          project. Collaborating with local, national, or international partners
+          provides valuable insights and expertise, acting as consultants or potential
+          funders for your programs. Initiating connections with local actors fosters
+          strong ties with the community, presenting unique challenges and opportunities
+          to test lab results in real-life scenarios.\r\nSeveral online toolkits
+          facilitate transdisciplinary collaboration with external partners. First,
+          when you approach a future collaboration as a single individual, you might
+          have to search for parters. A workshop \u2018mapping your stakeholders\u2019
+          (M. Craps) can act as a starting point in this process.\r\nWhen starting
+          to know each other and create a team-community, the Shape-id Toolkit (https://www.shapeidtoolkit.eu/
+          ) offers pathways for engaging with societal partners, while other external
+          networks like STEAM+(https://www.steamtalent.eu/), Copernicus Alliance
+          (https://www.copernicus-alliance.org/) , Learning Planet Alliance (https://www.learning-planet.org/),
+          Lifelong Learning Platform (https://www.lllplatform.eu/ ) and ITD Alliance
+          (https://itd-alliance.org/)  offer diverse examples of and lessons learned
+          about transdisciplinary co-creation with different types of stakeholders.
+          \r\n\r\n"
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      - textString: 'Identifying relevant knowledge is crucial for the collaborative
+          process. This relates both to the already present knowledge of project
+          participants, and to the required knowledges for making progress on the
+          wicked problem. Knowledge not only refers to traditional academic knowledge,
+          but also includes expertise in co-design processes, interventions, and
+          expertise from the practical domain. '
+        textSize: 8
+        textColor:
+          serializedVersion: 2
+          rgba: 0
+        isBold: 0
+        textID: 0
+      images: []
+  designTrail:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    trailsBlock:
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: 'testing              '
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Format\r\nTo establish a transdisciplinary education structure,
+            the initial step involves navigating through various available formats,
+            taking into account factors such as student schedules, educational requirements,
+            institutional possibilities, and innovative approaches across different
+            faculties. The decision-making process should be driven by the desired
+            outcomes for students and other learners, alongside the available support.\r\nIntra-
+            or extracurricular \r\nThe first decision is whether the educational
+            program is extra- or intracurricular. For instance, extracurricular options
+            include summer- or winterschool, involving short intensive courses outside
+            the academic year, or an honors program that runs throughout the year
+            alongside regular classes to broaden the learning program. Intra-curricular
+            possibilities encompass regular classes, modules, minors, or a graduation
+            project. Living labs and hackathons can be both extra- and intracurricular.\r\nTime
+            commitment\r\nIt is essential for the chosen format to align with the
+            preferences of participants around the table, such as students, researchers,
+            teachers, and societal partners. Consideration should be given to whether
+            all participants will be present simultaneously, potentially fostering
+            a learning community with equality, or if there will be variations in
+            the time commitment of different participants, such as researchers or
+            societal partners. Shorter periods of time with all participants may
+            facilitate a more equitable learning community, while longer stretches
+            allow for a more in-depth exploration of multiple competencies.\r\nCompulsory
+            or elective\r\nThe next consideration is whether the program will be
+            compulsory or elective. Opting for an elective approach has the advantage
+            of higher student and participant motivation. This inclusivity ensures
+            the active involvement of researchers, students, teachers, and societal
+            partners. Implementing admission requirements can further contribute
+            to attracting the desired student profile. However, transdisciplinary
+            education can be beneficial for all students, therefore, it could be
+            a part of a compulsory class or program to encourage all students to
+            learn to collaborate and meet different perspectives.\r\n"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks:
+      - texts:
+        - textString: Button 1 new text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button2NestedBlocks:
+      - texts:
+        - textString: Lorem ipsum button 2
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button3NestedBlocks:
+      - texts:
+        - textString: Lorem ipsum button 3
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: 1b8daf09a13dd4137920d4cf4fe401b9, type: 3}
+      - texts:
+        - textString: 'What is the theme:
+
+            Defining (a) challenge
+
+'
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "The chosen challenge should necessitate students to engage
+            and collaborate with stakeholders. There can be multiple challenges or
+            themes for selection or a singular challenge for one or more student
+            teams. Organizers can either choose a challenge themselves or empower
+            the participating group to select a challenge or collectively develop
+            a challenge based on a general theme. Both have benefits and drawbacks.\r\nChallenges
+            by organizers\r\nOrganizers can define challenge themselves:\r\n\u2022\tStudents
+            can participate in already existing collaborations or contribute to issues
+            that partners experience within their field.\r\n\u2022\tThese challenges
+            may emerge from within the institute, involving complex problems faced
+            by teachers, researchers, or student-led initiatives. External actors,
+            such as businesses, private or government-owned organizations, and local
+            governments, can also contribute challenges, fostering direct collaboration.
+            The origin of the wicked problem can influence the nature of collaboration,
+            shifting between a consultative approach and an equal partnership.\r\n\u2022\tProjects
+            may create more impact as they are more interconnected and build on each
+            other and previous projects.\r\n\u2022\tProjects where relevant stakeholders
+            are involved in the topic of choice, more often generate impact (Groothuijsen,
+            2021).\r\nChallenges by the team\r\nOrganizers can empower the participating
+            group to select a challenge or collectively develop a challenge based
+            on a general theme:\r\n\u2022\tStudent teams have the freedom to refine
+            broader themes or wicked problems into a concrete challenge of their
+            interest.\r\n\u2022\tIt fosters intrinsic motivation\r\n\u2022\tIt may
+            take more time as students need to find partners to work with\r\n\u2022\tIt
+            may take more time before teams delve into their chosen challenge, requiring
+            initial deliberation on the specific aspect of the wicked problem to
+            address collectively.\r\n\u2022\tMay create smaller impact as projects
+            are less interconnected.\r\n\u2022\tLocal community issues are attractive
+            and generate more impact\r\nLocal communities\r\nLocal community issues,
+            for instance, can enhance the attractiveness of a challenge. Addressing
+            a challenge with local impact allows students to witness the tangible
+            results of their efforts, fostering motivation and a sense of ownership.
+            Research generates more impact if the project is not only relevant in
+            general, but for the specific local practice (Groothuijsen, 2021). Tackling
+            a local challenge also empowers students to take initiative and implement
+            their vision, promoting a sense of responsibility. Furthermore, choosing
+            a local challenge facilitates student engagement, as it connects them
+            with a readily available local network and encourages support from local
+            authorities for the innovation lab.\r\n"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks:
+      - texts:
+        - textString: Button 1 new text
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button2NestedBlocks:
+      - texts:
+        - textString: Lorem ipsum button 2
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button3NestedBlocks:
+      - texts:
+        - textString: Lorem ipsum button 3
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: 1a3d453bdb54741e7bb4558cab6b0a6e, type: 3}
+      - texts:
+        - textString: Where does it happen
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: 'Learning environment
+
+            An important consideration
+            is the location of the transdisciplinary learning environment. Various
+            options exist, including organizing it on the school campus, at an external
+            venue, online, or adopting a hybrid approach that combines both on- and
+            offline elements. Conducting the program on campus has the advantage
+            of well-equipped rooms with materials for work, learning, and collaboration,
+            including projectors, screens, tables, chairs, and Wi-Fi. Additionally,
+            the on-campus setting is accessible and familiar to participants, potentially
+            reducing barriers to participation.
+
+            External location
+
+            Choosing
+            an external location can be inspiring, offering existing wicked problems
+            for participants to tackle. This setting becomes a space for experimentation,
+            research, and collaboration, often involving societal partners already
+            engaged in the location where the learning environment occurs. Moreover,
+            it breaks the routine of a familiar environment, creating a neutral space
+            where each participant can engage on an equal footing.
+
+            Context
+
+            Considering
+            the context is crucial. What kind of environment do you want to create
+            with the participants? Is it meant to be informal, practical, or social?
+            The choice depends on the wicked problem being addressed. For instance,
+            at Avans Hogeschool, Helio''s (Hybrid External Learning and Innovation
+            environments) extend beyond the classroom. De Kleine Aarde, a food garden,
+            focuses on issues related to food transition, biodiversity, and soil.
+            Meanwhile, WijWest, a neighbour centre, addresses social issues like
+            neighbourhood loneliness or youth criminality.
+
+            Therefore,
+            selecting the environment and context should align with the wicked problem
+            being addressed, the involved parties, and the program format.
+
+
+
+'
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: Implementation
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "After designing a framework for the program, such as the format,
+            the theme and the location. It is important to find a way to implement
+            the program in the institute. It is important to have the support of
+            the organization. Since transdisciplinary education requires experimentation
+            space it is important to have sufficient time from all partners and money
+            to make sure that the quality of learning stays high. A common problem
+            on this point is that transdisciplinary education is often a pilot project
+            that is not embedded in the organization yet. Therefore, mostly teachers
+            invest a lot of their time to make this program happen with subsidy for
+            innovative learning programs. However, to continue the program is frequently
+            a challenge.\r\nHelp of the institution\r\nTherefore, it is important
+            to involve the institute into the development of the program and provide
+            time and resources to make it able to happen. This requires flexibility
+            of the organization since transdisciplinary education is not designed
+            to follow in the race of efficiency and scaling up. \r\nTime and resources\r\nThere
+            are a few possibilities to divide time and resources, found in multiple
+            interesting practices. Resources could come from multiple sources. For
+            example, the transdisciplinary program could be connected with a research
+            group who has the finances to spend time to join a transdisciplinary
+            program and can use the results for their own research. Also, societal
+            partners could provide a location for the students and invest time to
+            interact with them. \r"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: 5758a53c77f57467880c6c5d3bfb2c02, type: 3}
+      - texts:
+        - textString: What to learn
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "In the realm of transdisciplinary education, the learning
+            objectives extend beyond just students; educators, researchers, and societal
+            partners are also integral learners. Establishing a conducive learning
+            environment where all participants can contribute to and learn is paramount.
+            The exploration of wicked problems opens avenues for diverse learning
+            goals, categorized into three key aspects:\r\n\u2022\t knowledge acquisition,\r\n\u2022\taction-oriented
+            outcomes, \r\n\u2022\tand the development of intrinsic values,\r\nessentially
+            encompassing the realms of the head, hands, and heart (Smeers et al.).
+            Notably, the emphasis is often placed on the process itself rather than
+            the end result (Veltman et al., 2021). In your transdisciplinary project
+            you can incorporate these three forms of learning goals.\r\nKnowledge
+            acquisition\r\n \r\nIn transdisciplinary education you create knowledge
+            for society, practice, education and science. You create knowledge together
+            by sharing, discovering, working and researching together, by applying
+            knowledge in new situations. l Knowledge creation within the transdisciplinary
+            framework is dynamic, shaped by the wicked problem at hand and the collaborative
+            efforts of the transdisciplinary team. Drawing from multiple disciplines
+            and engaging with societal partners, including organizations and civilians,
+            broadens the nature of knowledge. The scale of knowledge encompasses
+            critical thinking, systemic and holistic thinking, long-term orientation,
+            visioning, understanding complexity, and sensemaking, wherein the head
+            plays a pivotal role.\r\nDiscuss with your transdisciplinary group what
+            kind of knowledge you want to create together.\r\nAction-oriented outcomes\r\n
+            \r\nIn transdisciplinary projects you work on concrete projects that
+            contribute to societal issues. You develop new things together. Action
+            is a fundamental component of the learning process, emphasizing collaborative
+            efforts to address real wicked problems. This approach directs the learning
+            process towards active outcomes with potential societal impact. Embracing
+            an action-oriented mentality instils courage, creativity, perseverance,
+            resilience, and optimism. Interacting with actual stakeholders facing
+            the problem fosters collaborative skills such as effective communication
+            and co-creation. This proactive approach not only prepares students for
+            collaborations beyond the academic setting but also motivates other stakeholders
+            to participate in the change-making process, contributing to societal
+            impact, where the hands play a major role.\r\nDiscuss with your transdisciplinary
+            group what kind of products you want to develop.\r\nDevelopment of intrinsic
+            values\r\n \r\nFinally, transdisciplinary projects contribute to everyone's
+            self-development as a human. The final learning goal revolves around
+            willingness, reflecting inner development goals encompassing being, thinking,
+            relating, collaborating, and acting. This transformative approach facilitates
+            a profound change within the participant, aligning with essential frameworks
+            for transformative skills for sustainable development, echoing the principles
+            of the sustainable development goals. This internalized motivation, driven
+            from within, underscores the critical role of the heart in the learning
+            process. The Inner Development Goals \u2013 also discussed in the video
+            on top of this page \u2013 relate to this learning process. \r"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: 7ed6e5ba746e14b42aabca41ba6d2167, type: 3}
+      - texts:
+        - textString: Het groene brein, community sociaal circulair (2023) uit Praktijkgids
+            transdisciplinair leren
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        - textString: How do we learn
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "The way participants learn in transdisciplinary education
+            is through experimentation, sharing ideas, practical workshops, personal
+            reflections and group discussions. Students and other participants learn
+            and develop skills, attitudes and competences that will help them face
+            the complex challenges of society and life later on. These are soft skills
+            and attitudes such as critical thinking, self-reflection, teamworking,
+            planning, decision-making, understanding complexity, openness, compassion,
+            understanding diversity,... Instead of another course or workshop where
+            participants learn a particular set of theories, transdisciplinary education
+            is a place for students and other participants to develop crucial learning
+            competences for the future. \r\nLearn through collaboration \r\nThe learning
+            is focused on wicked problems, in which a learning team is collaborating
+            to act upon the problem. In that sense, a major part of the learning
+            is collaborating to find an outcome of the wicked problem. Thus, the
+            focus is mainly on researching, acting and reflecting. To solve a problem,
+            we come to three phases. \r\n\u2022\tThe first one is to explore the
+            problem, \r\n\u2022\tthen to define the problem \r\n\u2022\tand finally,
+            to solve the problem.\r\nThis process will be repeated in an iterative
+            way to come closer to a possible outcome (praktijkgids transdisciplinair
+            leren). Through the process participants learn about the problem, the
+            necessary knowledge to solve the problem and the different perspectives
+            from multiple participants on the problem.\r\nFormal learning\r\nThere
+            is also space for formal learning (see the examples of De Kleine Aarde,
+            later on in the TRAIL) in which participants are trained in certain skills
+            and gain knowledge from experts. Possibilities on these learning activities
+            are workshops about wicked problems, system thinking, future thinking
+            or stakeholder mapping. Additionally, reflection sessions should be implemented
+            regularly.  Activities such as visits to certain companies or sites that
+            are related to the wicked problem both create a connection between the
+            participants and give an insight into the wicked problem. A collaboration
+            of different universities created a toolbox for teachers with multiple
+            learning activities connected to the Inner Development Goals. \r\n\r\nIntense
+            Learning activities\r\n\r\nLiterature shows that especially at the beginning
+            of the course intensive learning activities, such as boot camps or field
+            trips, are crucial to create a foundation to learn, work and research
+            collaboratively in a safe and equal environment (Fam et al., 2018). \r\n"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to create the process
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "\u201CThe journey, not the destination matters\u2026\u201D
+            ~ T.S. Eliot\r\nA transdisciplinary learning environment is learner driven
+            and allows participants to experience and experiment with a transdisciplinary
+            process. Where the participants will end up at the end cannot be completely
+            defined because they have the space and freedom to try different things.
+            Some ideas will work, and others will not, but through experimentation
+            creativity is engaged.\r\nIterative process\r\nLearning iteratively is
+            how we learn naturally. In a transdisciplinary approach, when handling
+            wicked problems, learning iteratively is the only way forward. Because
+            transdisciplinary research deals with complex and unsolvable (wicked)
+            problems, every attempt to answer such an issue is prone to bringing
+            about new or unforeseen consequences. Its complexity relates to many
+            diverging factors. It concerns different and often conflicting desires
+            from stakeholders and appears to evolve organically together with whatever
+            approach is decided upon, generating new issues that need to be tackled.
+            Therefore, the problem needs to be regularly revisited, re-analysed,
+            re-framed and the plan of action rethought in iterative processes.\r\nThe
+            iterative process can be confusing and frustrating because a big part
+            of the learning process is about the un-known. This is for all participants,
+            both students, teachers, researchers and societal partners. \r\nLearning
+            by doing\r\nTo learn more about the challenge and develop the transversal
+            skills needed to tackle real life issues, the program should guide participants
+            through one or two iterations. The approach to addressing wicked problems
+            fits closely to the human learning process as described by Kolb\u2019s
+            (2014) theory of experiential learning (Learning by Doing). We learn
+            a lot by continuously establishing thoughts, putting those ideas into
+            action and then reflecting upon them. That reflection leads to deeper
+            insights and new ideas, which can then be put into action again and reflected
+            upon, starting another cycle or iteration anew. Reflecting on what we
+            do ourselves follows the iterative approach to the wicked problem of
+            life. Missing in Kolb\u2019s (2014) theory is however the need for other
+            actors to co-create a new type of knowledge.\r\n"
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to assess
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\nAs mentioned before, the development of competences
+            is most crucial. This enhances that it the assessment is happening on
+            longer stretches of time (learning lines). Moreover, competence development
+            is internal and cannot easily be assessed by an external observer. A
+            form to reflect is through the creation of a portfolio and development
+            interviews (Gulikers, 2023). Regular individual and group reflection
+            exercises can help the team members to express the influence of the program
+            on their competence development.\r\nReflection \r\nIt is important to
+            spend ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to assess
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\nAs mentioned before, the development of competences
+            is most crucial. This enhances that it the assessment is happening on
+            longer stretches of time (learning lines). Moreover, competence development
+            is internal and cannot easily be assessed by an external observer. A
+            form to reflect is through the creation of a portfolio and development
+            interviews (Gulikers, 2023). Regular individual and group reflection
+            exercises can help the team members to express the influence of the program
+            on their competence development.\r\nReflection \r\nIt is important to
+            spend ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: trail 9
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\ntesting\nReflection \r\nIt is important to spend
+            ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: trail 10
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: trail 11
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum.
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to assess
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\nAs mentioned before, the development of competences
+            is most crucial. This enhances that it the assessment is happening on
+            longer stretches of time (learning lines). Moreover, competence development
+            is internal and cannot easily be assessed by an external observer. A
+            form to reflect is through the creation of a portfolio and development
+            interviews (Gulikers, 2023). Regular individual and group reflection
+            exercises can help the team members to express the influence of the program
+            on their competence development.\r\nReflection \r\nIt is important to
+            spend ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to assess
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\nAs mentioned before, the development of competences
+            is most crucial. This enhances that it the assessment is happening on
+            longer stretches of time (learning lines). Moreover, competence development
+            is internal and cannot easily be assessed by an external observer. A
+            form to reflect is through the creation of a portfolio and development
+            interviews (Gulikers, 2023). Regular individual and group reflection
+            exercises can help the team members to express the influence of the program
+            on their competence development.\r\nReflection \r\nIt is important to
+            spend ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+    - blocks:
+      - texts: []
+        images:
+        - {fileID: 21300000, guid: d567f69a0bc804f0cbea26a94be18ee2, type: 3}
+      - texts:
+        - textString: How to assess
+          textSize: 10
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 1
+          textID: 0
+        - textString: "Since transdisciplinary education is not a regular course
+            with tests and exams, the assessment can be a challenge. Furthermore,
+            if the transdisciplinary team wants to strive for equality between the
+            team members, assessment can be a disturbance in this equality, since
+            most probable teachers need to assess students which causes a hierarchy.
+            Luckily, there are multiple ways to assess within transdisciplinary education.\r\nFocus
+            on the process. \r\nAs mentioned before, the development of competences
+            is most crucial. This enhances that it the assessment is happening on
+            longer stretches of time (learning lines). Moreover, competence development
+            is internal and cannot easily be assessed by an external observer. A
+            form to reflect is through the creation of a portfolio and development
+            interviews (Gulikers, 2023). Regular individual and group reflection
+            exercises can help the team members to express the influence of the program
+            on their competence development.\r\nReflection \r\nIt is important to
+            spend ample time explaining the purpose of reflection to the team members.
+            Reflection is a powerful tool if only use in the right way. The exercises
+            are to help the team members set personal goals and expectations and
+            help in achieving them. For example, a first reflection could happen
+            before the program on what the team member is expecting, what they think
+            their strengths and weaknesses are and what competences they want to
+            work on. Throughout the TRAIL you can ask the team members to take that
+            original reflection and examine whether they have made progress or if
+            some things have changed. \r\nWho assesses?\r\nAdditionally, there is
+            the question of who is been assessed and who is assessing. Since the
+            program is in an educational setting, the student should have a sort
+            of assessment. To maintain equality between all participants, other participants
+            should also have some form of assessment. Otherwise, the aim of equality
+            between all participants is shifting if only the student is assessed."
+          textSize: 8
+          textColor:
+            serializedVersion: 2
+            rgba: 0
+          isBold: 0
+          textID: 0
+        images: []
+      Button1NestedBlocks: []
+      Button2NestedBlocks: []
+      Button3NestedBlocks: []
+  lowerCamp:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  participationTrail:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  upperCamp:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  summitTrail:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  finishLine:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  evaluationTrail:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+  restCamp:
+    avansLogo: {fileID: 0}
+    trailMapButtonText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    mainText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
+    paragraphText:
+      textString: 
+      textSize: 0
+      textColor:
+        serializedVersion: 2
+        rgba: 0
+      isBold: 0
+      textID: 0
